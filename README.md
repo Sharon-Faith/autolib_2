@@ -6,6 +6,9 @@ The notebook contains the analysis on a project whose objective was to determine
 ## Running the app
 *  Access the colab notebook at: https://colab.research.google.com/drive/1CFB0TuRRbfD-C_kcpj4HJpqQLd3d1ttm?usp=sharing
 
+## Accessing hypothesis testing report
+*  The report can be aaccessed here: https://docs.google.com/document/d/1uW4cYoaRqs3js-BrUd5cNcnVpCdeO0zKU6gSPVBZOQg/edit?usp=sharing
+
 ## Installation/ Set Up
 * Use a desktop or laptop, phone or tablet.
 * To install, copy the link to this repository https://github.com/Sharon-Faith/autolib_2/ and clone the repository with the git clone command in the terminal
